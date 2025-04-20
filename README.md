@@ -4,7 +4,7 @@ Este projeto utiliza o sensor ultrassônico **HC-SR04** para detectar a presenç
 
 ---
 
-## 🔧 Materiais Utilizados
+## 🔧 Materiais necessários para rodar o código
 
 - 1 Arduino 
 - 1x Sensor Ultrassônico HC-SR04
